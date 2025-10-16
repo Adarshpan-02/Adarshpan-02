@@ -16,7 +16,7 @@ I'm a creative Full Stack Developer passionate about building modern, scalable w
 
 ## 🏆 Featured Projects
 
-### [Portfolio Website](https://adarshpandey-portfolio.netlify.app/)
+### [Portfolio Website](https://adarshpandey-portfolio.netlify.app/) 
 A showcase of my journey, skills, and selected works. Built with React, deployed on Netlify for global performance.
 
 ### [Project Name](https://github.com/Adarshpan-02/project-repo)
