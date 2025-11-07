@@ -9,10 +9,10 @@ I'm a creative Full Stack Developer passionate about building modern, scalable w
 - 🌏 Always open to collaboration and new ideas.
 
 ## ⚡ Skills Snapshot
-- **Languages:** JavaScript, TypeScript, Python
-- **Frameworks/Libraries:** React, Node.js, Express, Redux, Bootstrap
-- **Tools:** Git, VS Code, Figma, Postman
-- **Deployment:** Netlify, Vercel, Heroku
+- **Languages:** JavaScript, HTML , CSS ,Java  
+- **Frameworks/Libraries:**  Bootstrap
+- **Tools:** Git, VS Code, Figma 
+- **Deployment:** Netlify, Vercel
 
 ## 🏆 Featured Projects
 
@@ -32,8 +32,8 @@ Highlight—innovative features, creative solutions, and user-centric design.
 
 ## 📫 Let’s Connect!
 - Portfolio: [adarshpandey-portfolio.netlify.app](https://adarshpandey-portfolio.netlify.app/)
-- Email: your.email@example.com
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourusername)
+- Email: adarshpan345@gmail.com
+- LinkedIn: [your-linkedin](https://linkedin.com/in/adarsh-pandey02)
 
 ---
 
