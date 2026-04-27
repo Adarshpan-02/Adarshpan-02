@@ -41,5 +41,5 @@ Brief description, tech stack, and what makes it unique.
 
 > _“Code is not just instructions, it's imagination made real.”_
 
-Thanks for visiting! 🌟  
+Thanks for visiting!   
 Feel free to explore, connect, or collaborate on something awesome.
