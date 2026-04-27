@@ -28,7 +28,7 @@ Brief description, tech stack, and what makes it unique.
 ##  Let’s Connect!
 - Portfolio: [adarshpandey-portfolio.netlify.app](https://adarshpandey-portfolio.netlify.app/)
 - Email: adarshpan345@gmail.com
-- LinkedIn: [Adarshpan-02](https://linkedin.com/in/adarsh-pandey02)
+- LinkedIn: [Adarsh-pandey-02](https://linkedin.com/in/adarsh-pandey02)
 
 ---
 
