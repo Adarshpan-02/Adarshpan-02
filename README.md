@@ -14,7 +14,6 @@ I'm a creative Full Stack Developer passionate about building modern, scalable w
 - **Tools:** Git, VS Code, Figma 
 - **Deployment:** Netlify, Vercel
 
-##  Featured Projects
 
 ### [ Adarsh Portfolio ](https://adarshpandey-portfolio.netlify.app/) 
 A showcase of my journey, skills, and selected works. Built with React, deployed on Netlify for global performance.
