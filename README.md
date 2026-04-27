@@ -19,10 +19,9 @@ I'm a creative Full Stack Developer passionate about building modern, scalable w
 ### [ Adarsh Portfolio ](https://adarshpandey-portfolio.netlify.app/) 
 A showcase of my journey, skills, and selected works. Built with React, deployed on Netlify for global performance.
 
-### [Project Name](https://github.com/Adarshpan-02/project-repo)
-Brief description, tech stack, and what makes it unique.
 
-> Explore all my projects [here](https://github.com/Adarshpan-02?tab=repositories)!
+
+> Explore all my projects 
 
 
 ##  Let’s Connect!
