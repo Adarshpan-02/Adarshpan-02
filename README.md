@@ -1,6 +1,6 @@
  #  Hi, I'm Adarsh Pandey!
 
-Welcome to my GitHub space! 🚀  
+Welcome to my GitHub space!   
 I'm a creative Full Stack Developer passionate about building modern, scalable web applications and learning new technologies.
 
 ##  About Me
@@ -21,9 +21,6 @@ A showcase of my journey, skills, and selected works. Built with React, deployed
 
 ### [Project Name](https://github.com/Adarshpan-02/project-repo)
 Brief description, tech stack, and what makes it unique.
-
-### [Another Cool Project](https://github.com/Adarshpan-02/another-project)
-Highlight—innovative features, creative solutions, and user-centric design.
 
 > Explore all my projects [here](https://github.com/Adarshpan-02?tab=repositories)!
 
