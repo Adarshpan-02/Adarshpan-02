@@ -27,17 +27,15 @@ Highlight—innovative features, creative solutions, and user-centric design.
 
 > Explore all my projects [here](https://github.com/Adarshpan-02?tab=repositories)!
 
-## 📈 GitHub Stats
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshpan-02&show_icons=true&theme=radical)
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 - Portfolio: [adarshpandey-portfolio.netlify.app](https://adarshpandey-portfolio.netlify.app/)
 - Email: adarshpan345@gmail.com
-- LinkedIn: [your-linkedin](https://linkedin.com/in/adarsh-pandey02)
+- LinkedIn: [linkedin](https://linkedin.com/in/adarsh-pandey02)
 
 ---
 
-### 🚀 Fun Facts
+### Fun Facts
 - Every line of code is a new adventure!
 - I love contributing to open source and learning through collaboration.
 - My mantra: Build. Learn. Share.
