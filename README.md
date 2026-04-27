@@ -1,20 +1,20 @@
- # 👋 Hi, I'm Adarsh Pandey!
+ #  Hi, I'm Adarsh Pandey!
 
 Welcome to my GitHub space! 🚀  
 I'm a creative Full Stack Developer passionate about building modern, scalable web applications and learning new technologies.
 
-## 🧑‍💻 About Me
-- 💡 Problem solver • Lifelong learner • Code enthusiast
-- 🎨 I blend design and logic to craft beautiful digital experiences.
-- 🌏 Always open to collaboration and new ideas.
+##  About Me
+-  Problem solver • Lifelong learner • Code enthusiast
+-  I blend design and logic to craft beautiful digital experiences.
+-  Always open to collaboration and new ideas.
 
-## ⚡ Skills Snapshot
+##  Skills Snapshot
 - **Languages:** JavaScript, HTML , CSS ,Java  
 - **Frameworks/Libraries:**  Bootstrap
 - **Tools:** Git, VS Code, Figma 
 - **Deployment:** Netlify, Vercel
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 ### [ Adarsh Portfolio ](https://adarshpandey-portfolio.netlify.app/) 
 A showcase of my journey, skills, and selected works. Built with React, deployed on Netlify for global performance.
